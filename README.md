@@ -1,26 +1,21 @@
-# Installing Python
+# Week 1: Exploratory Data Science in Python
 
-The Anaconda distribution of Python is a _package manager_ for Python. It is very widely used and there are a number of resources available online for Mac OS X and Windows machines.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-1/master?filepath=lecture-1.ipynb)
 
-The Anaconda distribution is free to install and can be downloaded using:
+## Topics
 
-https://www.anaconda.com/download/
+- Course Logistics
+- Using Jupyter Notebooks
+- Introduction to Pandas
 
-The latest installer for your computer's operating system should be used. It will install Python version 3.7 as well as many other Python-based packages.
+## Initial Survey
 
-Based on your operating system, installation instructions are available online:
+Please fill out this anonymous survey for some initial feedback:
 
-- [Mac OS X](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
-- [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
+## Additional Materials
 
-Note that if using Windows, 
-
-## Python 2 vs 3
-
-The adoption of Python 3, first released in 2008, was very slow, and many users still choose to use Python 2. In my opinion, this is the wrong choice. Python 3 has a lot of great, new features, and starting in 2019, many of the main Python packages will no longer support Python 2.
-
-## The Command Line
-
-To r
-
-## Setting up a MUSA 620 Python environment
+- [StackOverflow: The Incredible Growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
+- [2015 Funding Proposal for the Jupyter Notebook](https://blog.jupyter.org/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science-2b5fb94c3c58)
+- [A history of Jupyter Notebooks by its founder](http://blog.fperez.org/2012/01/ipython-notebook-historical.html)
+- [Binder Documentation](https://mybinder.readthedocs.io/en/latest/)
+- [Google's Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
